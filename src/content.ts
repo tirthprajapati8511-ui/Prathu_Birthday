@@ -15,7 +15,7 @@ export const content = {
   },
 
   reveal: {
-    eyebrow: 'October 2026 · ek special din',
+    eyebrow: '21 October 2026 · ek special divas',
     lineOne: 'Happy',
     lineTwo: 'Birthday',
     name: NAME,
@@ -66,7 +66,7 @@ export const content = {
     message: 'Mane to Vishvas nahi thato ke Mani gai tu\nbut tobhi Virtually j khavano che',
     /** Smaller line at the bottom of the message card. */
     note: 'if Sacche khava javu hoy to msg karje',
-    cta: 'Ek aur cheez hai…',
+    cta: 'Eak Biji vastu che tara mate ...',
   },
 
   rejected: {
