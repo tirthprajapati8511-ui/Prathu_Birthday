@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Original sticker downloads (the site uses the copies in src/assets)
+WhatsApp Sticker*
