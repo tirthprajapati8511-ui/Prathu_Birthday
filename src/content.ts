@@ -60,8 +60,6 @@ export const content = {
   },
 
   accepted: {
-    eyebrow: 'booking confirmed',
-    title: 'Yayyy! It’s an ice cream date!',
     /** The note in the message card under the title; \n starts a new line. */
     message: 'Mane to Vishvas nahi thato ke Mani gai tu\nbut tobhi Virtually j khavano che',
     /** Smaller line at the bottom of the message card. */
